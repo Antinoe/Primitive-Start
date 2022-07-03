@@ -1,0 +1,87 @@
+A simple mod revolving around making Early-Game a little more challenging while keeping it fun.
+
+Brief list of features:
+-Removes the Copper starter set and replaces it with a Crude Bag. (configurable)
+-This Crude Bag contains all of the materials necessary to start out. (configurable)
+-Early-Game equipment such as Stone Tools, Wooden Club and Wooden Stake.
+-New consumables made from Hay or Herbs which heal and regenerate upon usage. (configurable)
+-Many options to fine-tune the stats of weapons, tools and consumables within this mod.
+
+
+-Credits-
+-Logar: Main Spriter. Made the new Wooden Stake and Wooden Club sprites.
+
+
+-v0.1-
+-Initial release.
+
+-v0.2-
+-Changed the Wooden Club sprite.
+	-Changed the Wooden Club's stats.
+-Changed the sprites of the Stone Axe. There were purple smudges on it, so I had to repair the texture.
+	-Changed the Stone Axe's stats.
+
+-v0.3-
+-Ported the mod to 1.4.
+-Removed Vine from the Tool recipes.
+-Rebalanced the Wooden Club's stats.
+-Added the Primitive Bag, an Early-Game starter kit.
+-The Player no longer starts with Vanilla's set of Copper Tools.
+
+-v0.4-
+-Changed the name of the Primitive Bag to the Crude Bag.
+-Changed the Crude Bag's sprite. For now, it's a poor recolor of Terraria's Vicious Powder. I will update it when I have more time.
+-Moved the Credits file to the Description, where it should have been.
+-Changed the Wooden Club, Stone Axe and Stone Pickaxe sprites. These will be improved in the future.
+-Updated the Mod Icon and Description.
+
+-v0.5-
+-The Stone Axe and Stone Pickaxe can now be Reforged.
+-Modified the contents and recipe of the Crude Bag.
+-Rebalanced the Wooden Club's stats.
+-Modified the Weed Wrap. It now grants the 'Well Fed' buff for 20 seconds, instead of the 'Peckish' buff for 10 minutes.
+-Lowered the Wooden Club's crafting cost from 20 to 11.
+-Edited the Stone Axe and Stone Pickaxe sprites. They now have a much more rough, rudimentary design.
+
+-v0.6-
+-Increased the Weed Wrap's crafting cost from 12 to 30.
+-Increased the Weed Wrap's buff duration from 20 seconds to 30 seconds.
+-All recipes containing Wood now use the Recipe Group, not the Item.
+-The Weed Wrap now uses the ``EatFood`` Use Style.
+
+-v0.6.1-
+-Fixed an exploit with the Crude Bag's crafting recipe: It required only 24 Hay, despite Weed Wrap being made of 30 Hay each.
+
+-v0.6.2-
+-The Rarity of the Stone Axe and Stone Pickaxe have been reduced from 1 to 0.
+-Added the Wooden Stake, an Early-Game "shortsword" weapon.
+
+-v0.6.3-
+-Reworked the Weed Wrap: Instead of granting 30 seconds of Well Fed, it grants 10 seconds of Hearty Meal.
+-Reduced the crafting cost of the Weed Wrap from 30 to 20.
+-Fixed the mod for the recent Terraria update.
+
+-v0.6.4-
+-The Weed Wrap now heals 5 Life upon consumption. (configurable)
+-Changed the Wooden Club and Wooden Stake sprites. (Thank you, Logar.)
+-Added a config.
+-Removed the Crude Bag recipe.
+-Added the Herbal Weed Wrap, a more potent successor to the Weed Wrap.
+
+-v0.6.4.1-
+-Fixed the config's "Give Weed Wrap" behavior.
+-Added Herbal Weed Wraps to the config's Crude Bag options.
+
+-v0.6.4.2-
+-Add configuration options for the Wooden Club's Knockback and the Mining Speed of the Stone Axe and Stone Pickaxe.
+
+-v0.6.4.3-
+-Updated the mod for tModLoader's May update. The Crude Bag will now work again.
+-Updated the Mod Icon.
+-Added an option to configure how much Hay is required for Herbal Weed Wrap.
+
+-v0.6.4.4-
+-Updated the mod for the June 2022 update of tModLoader.
+
+-v0.6.4.5-
+-Updated the mod for the July 2022 update of tModLoader.
